@@ -12,24 +12,7 @@
           </div>
           <div class="kiswah_cards web">
             <div class="row">
-              <div class="col-md-4">
-                <div
-                  class="c_card__ animate__animated second_"
-                  v-inview:class="['animate__slideInLeft']"
-                >
-                  <div class="c_card_img">
-                    <img
-                      src="@/assets/img/stock-photo-beautiful-muslim-lady-at-work.png"
-                      alt=""
-                    />
-                  </div>
-                  <div class="c_card_info">
-                    <h3><span class="num">2</span>Collect</h3>
-                    <p>After signing up your request, our representative will give you a light visit within 24 hours to collect your unneeded extra clothes.</p>
-                  </div>
-                </div>
 
-              </div>
               <div class="col-md-8">
                 <div
                   class="c_card__ animate__animated flex_style"
@@ -47,20 +30,6 @@
                   <div class="col-md-6">
                     <div
                       class="c_card__ animate__animated blue__"
-                      v-inview:class="['animate__slideInUp']"
-                    >
-                      <div class="c_card_img">
-                        <img src="@/assets/img/EQ0A0947.png" alt="" />
-                      </div>
-                      <div class="c_card_info">
-                        <h3><span class="num">4</span>Sort </h3>
-                        <p>After collecting, we sort the gathered clothes into categories to be reused safely and easily</p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div
-                      class="c_card__ animate__animated blue__"
                       v-inview:class="['animate__slideInRight']"
                     >
                       <div class="c_card_img">
@@ -72,7 +41,39 @@
                       </div>
                     </div>
                   </div>
+                  <div class="col-md-6">
+                    <div
+                      class="c_card__ animate__animated blue__"
+                      v-inview:class="['animate__slideInUp']"
+                    >
+                      <div class="c_card_img">
+                        <img src="@/assets/img/EQ0A0947.png" alt="" />
+                      </div>
+                      <div class="c_card_info">
+                        <h3><span class="num">4</span>Sort </h3>
+                        <p>After collecting, we sort the gathered clothes into categories to be reused safely and easily</p>
+                      </div>
+                    </div>
+                  </div>
                 </div>
+              </div>
+              <div class="col-md-4">
+                <div
+                  class="c_card__ animate__animated second_"
+                  v-inview:class="['animate__slideInLeft']"
+                >
+                  <div class="c_card_img">
+                    <img
+                      src="@/assets/img/stock-photo-beautiful-muslim-lady-at-work.png"
+                      alt=""
+                    />
+                  </div>
+                  <div class="c_card_info">
+                    <h3><span class="num">2</span>Collect</h3>
+                    <p>After signing up your request, our representative will give you a light visit within 24 hours to collect your unneeded extra clothes.</p>
+                  </div>
+                </div>
+
               </div>
             </div>
           </div>
@@ -141,24 +142,6 @@
           </div>
           <div class="kiswah_cards web">
             <div class="row">
-              <div class="col-md-4">
-                <div
-                  class="c_card__ animate__animated second_"
-                  v-inview:class="['animate__slideInLeft']"
-                >
-                  <div class="c_card_img">
-                    <img
-                      src="@/assets/img/stock-photo-beautiful-muslim-lady-at-work.png"
-                      alt=""
-                    />
-                  </div>
-                  <div class="c_card_info">
-                    <h3><span class="num">2</span>Identifying</h3>
-                    <p>To set our agreement terms and identify every company role</p>
-                  </div>
-                </div>
-
-              </div>
               <div class="col-md-8">
                 <div
                   class="c_card__ animate__animated flex_style"
@@ -176,20 +159,6 @@
                   <div class="col-md-6">
                     <div
                       class="c_card__ animate__animated blue__"
-                      v-inview:class="['animate__slideInUp']"
-                    >
-                      <div class="c_card_img">
-                        <img src="@/assets/img/EQ0A0947.png" alt="" />
-                      </div>
-                      <div class="c_card_info">
-                        <h3><span class="num">4</span>Sorting</h3>
-                        <p>After collecting, we sort the clothes into categories so we can distribute them in the right way</p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div
-                      class="c_card__ animate__animated blue__"
                       v-inview:class="['animate__slideInRight']"
                     >
                       <div class="c_card_img">
@@ -201,7 +170,39 @@
                       </div>
                     </div>
                   </div>
+                  <div class="col-md-6">
+                    <div
+                      class="c_card__ animate__animated blue__"
+                      v-inview:class="['animate__slideInUp']"
+                    >
+                      <div class="c_card_img">
+                        <img src="@/assets/img/EQ0A0947.png" alt="" />
+                      </div>
+                      <div class="c_card_info">
+                        <h3><span class="num">4</span>Sorting</h3>
+                        <p>After collecting, we sort the clothes into categories so we can distribute them in the right way</p>
+                      </div>
+                    </div>
+                  </div>
                 </div>
+              </div>
+              <div class="col-md-4">
+                <div
+                  class="c_card__ animate__animated second_"
+                  v-inview:class="['animate__slideInLeft']"
+                >
+                  <div class="c_card_img">
+                    <img
+                      src="@/assets/img/stock-photo-beautiful-muslim-lady-at-work.png"
+                      alt=""
+                    />
+                  </div>
+                  <div class="c_card_info">
+                    <h3><span class="num">2</span>Identifying</h3>
+                    <p>To set our agreement terms and identify every company role</p>
+                  </div>
+                </div>
+
               </div>
             </div>
           </div>
@@ -269,11 +270,6 @@
         <div class="row">
           <div class="image col-lg-6" :style="{ backgroundImage: `url(${require('@/assets/img/about-us.jpeg')})` }"  data-aos="fade-right"></div>
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-              <i class='bx bx-info-circle'></i>
-              <h4>About Us</h4>
-              <p>Green Closet is a socially responsible company that was founded in 2022 and headquartered in the United Arab Emirates. We collect old, extra or unneeded clothes and deliver them to people who really need them.</p>
-            </div>
             <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
               <i class='bx bx-rocket' ></i>
               <h4>Our Mission </h4>

@@ -114,8 +114,8 @@
           <VuePhoneNumberInput
             v-model="newCustomer.phone"
             @update="onUpdate"
-            default-country-code="AE"
-            :only-countries="['AE']"
+            default-country-code="SA"
+            :only-countries="['SA']"
             required
           />
           <small class="text-danger" v-if="errors.phone">{{

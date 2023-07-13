@@ -68,13 +68,21 @@
 
     <!-- Main content -->
     <div class="container">
-      <div class="row">
+      <div class="row align-items-center">
         <div class="col-md-6 col-lg-5">
           <div class="form_control animate__animated" v-inview:class="['animate__slideInUp']">
             <en-signup-form :signuppage="true"></en-signup-form>
           </div>
         </div>
         <div class="col-md-6 col-lg-7  d-flex">
+          <div class="text-white text-center" >
+            <h4>
+              Green Closet is a socially responsible company that was founded in 2022 and headquartered in the United Arab Emirates.
+            </h4>
+            <h4>
+              We collect old, extra or unneeded clothes and deliver them to people who really need them.
+            </h4>
+          </div>
         </div>
       </div>
     </div>

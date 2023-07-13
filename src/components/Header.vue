@@ -68,13 +68,25 @@
 
     <!-- Main content -->
     <div class="container">
-      <div class="row">
+      <div class="row align-items-center">
         <div class="col-md-6 col-lg-5">
           <div class="form_control animate__animated" v-inview:class="['animate__slideInUp']">
             <signup-form :signuppage="true"></signup-form>
           </div>
         </div>
-        <div class="col-md-6 col-lg-7  d-flex">
+        <div class="col-md-6 col-lg-7 ">
+          <div class="text-white text-center" >
+            <h4>
+              جرين كلوزيت هي شركة تهدف للحفاظ على البيئة وتنمية الاستدامة، تأسست عام 2022 في الإمارات العربية المتحدة 
+            </h4>
+            <h4>
+              نقوم بجمع الملابس القديمة، الزائدة، أو غير الضرورية من عملائنا ونقدم لهم عوائد مالية فورية مثل خصومات أو قسائم الشراء من علاماتكم التجارية المٌفضلة
+            </h4>
+<h4>
+  بالإضافة إلى أن الملابس الغير صالحة تدخل في عملية إعادة التدوير وتحويلها إلى مواد خام مرة أخرى
+
+</h4>
+          </div>
         </div>
       </div>
     </div>
